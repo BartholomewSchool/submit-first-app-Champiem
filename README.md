@@ -1,3 +1,4 @@
 Oracle web development
 Eclipse
-yay
+
+Project is still unfinished, gave accepted excuse at project beginning
